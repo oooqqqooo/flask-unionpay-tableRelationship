@@ -1,0 +1,4 @@
+# flask-unionpay-tableRelationship
+
+这是我在中国银联实习的主要工作之一，根据建表文件读取表关系，利用networkx的有向图将所有表关系存储，然后编写查询接口和树状图展示，
+最后利用python的轻量级web框架发布到web端供其他人使用。
